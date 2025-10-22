@@ -1,6 +1,6 @@
 # HELLO!! 
 - This repository is for anyone who wants to learn about serial communication protocols.
-- We'll be learning by hands on project that will be shown in this repo.
+- We'll be learning by hands on projects that will be shown in this repo.
 
 # Completed Project
 In the "src" folder you will find multiple projects. The ones that are complete are:
