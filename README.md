@@ -10,7 +10,7 @@ In the "src" folder you will find multiple projects. The ones that are complete 
 
 # Tutorial for completed project
 - Each project has a tutorial shown in the the "tutorial" folder.
-- We encourage you follow the tutorial so you can have a better time understanding the project and its setup configuration
+- We encourage you to follow the tutorial so you can have a better time understanding the project and its setup configuration
 
 # Reference Article
 -Each project has a reference article that will explain the topic of the projects.
